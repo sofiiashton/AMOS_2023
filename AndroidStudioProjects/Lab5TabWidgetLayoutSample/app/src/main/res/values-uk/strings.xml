@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Лаб. №5</string>
+    <string name="students_tab">Студенти</string>
+    <string name="teachers_tab">Вчителі</string>
+    <string name="classes_tab">Предмети</string>
+    <string name="students_text">Це вкладка зі студентами.</string>
+    <string name="teachers_text">Це вкладка з вчителями.</string>
+    <string name="classes_text">Це вкладка з предметами.</string>
+</resources>

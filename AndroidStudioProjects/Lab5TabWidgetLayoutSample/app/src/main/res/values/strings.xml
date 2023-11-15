@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab5</string>
+    <string name="students_tab">Students</string>
+    <string name="teachers_tab">Teachers</string>
+    <string name="classes_tab">Classes</string>
+    <string name="students_text">This is the Students tab.</string>
+    <string name="teachers_text">This is the Teachers tab.</string>
+    <string name="classes_text">This is the Classes tab.</string>
+</resources>

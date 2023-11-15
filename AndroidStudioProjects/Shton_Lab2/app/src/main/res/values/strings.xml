@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Shton_Lab2</string>
+    <string name="action_settings">Налаштування</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Лабораторна робота №2</string>
+    <string name="second_fragment_label">Ім\'я студента</string>
+    <string name="next">Next</string>
+    <string name="group">ПП-41</string>
+    <string name="previous">Назад</string>
+
+    <string name="paragraph_text">
+        Натисніть на кнопку вище, щоб перейти до наступної сторінки.
+    </string>
+
+    <string name="student_full_name">Штонь Софія Максимівна</string>
+</resources>

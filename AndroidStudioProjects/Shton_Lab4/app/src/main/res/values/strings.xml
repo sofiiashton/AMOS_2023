@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Shton_Lab4</string>
+    <string name="action_settings" translatable="false">Налаштування</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">Лабораторна робота №4</string>
+    <string name="second_fragment_label" translatable="false">Ім\'я студента</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="group" translatable="false">ПП-41</string>
+    <string name="previous" translatable="false">Назад</string>
+
+    <string name="paragraph_text" translatable="false">
+        Натисніть на кнопку вище, щоб перейти до наступної сторінки.
+    </string>
+
+    <string name="student_full_name" translatable="false">Штонь Софія Максимівна</string>
+
+    <string name="hello" translatable="false">Hello, Android World!</string>
+    <string name="helloworld">Hello world!</string>
+</resources>
