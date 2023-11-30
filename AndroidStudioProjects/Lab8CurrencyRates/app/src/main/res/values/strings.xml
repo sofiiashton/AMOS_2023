@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lab8CurrencyRates</string>
+    <string name="rates_url">https://www.floatrates.com/daily/usd.xml</string>
+
+</resources>
